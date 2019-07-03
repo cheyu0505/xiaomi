@@ -244,7 +244,7 @@ a{
     width: 1226px;
     height: 120px;
     margin: 0 auto;
-    background-color: #333;
+    /* background-color: #333; */
     margin-top: 28px;
     margin-bottom: 22px;
 }
@@ -1289,7 +1289,7 @@ a{
     float: left;
 }
 .bottom1-4-1 img{
-width: 85px;
+    width: 85px;
 }
 .img-top{
     width: 100%;
@@ -1299,7 +1299,7 @@ width: 85px;
     margin: 0 auto;
     width: 1226px;
     height: 120px;
-    background-color: #e53935;
+    /* background-color: #e53935; */
     margin-bottom: 42px;
     margin-top: 2px;
 }
